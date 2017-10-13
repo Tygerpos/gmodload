@@ -1,3 +1,4 @@
 # Garry's Mod Load
 Simple Gmod Loading screen
-#DEMO SOON#
+# DEMO
+https://doc1337.github.io/gmodload/load/
